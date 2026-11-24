@@ -1,0 +1,20 @@
+/* Compartido · colores y tipografía del maquetado */
+:root {
+  --azul-marino: #0B2540;
+  --naranja-emergencia: #C2410C;
+  --naranja-suave: #FFF1E8;
+  --verde-bien: #0F766E;
+  --verde-suave: #E6F6F4;
+  --azul-info: #1D4ED8;
+  --azul-suave: #EAF1FF;
+  --ambar-texto: #78350F;
+  --ambar-fondo: #FEF3C7;
+  --texto: #0F172A;
+  --texto-suave: #475569;
+  --borde: #E2E8F0;
+  --fondo: #F1F5F9;
+  --fuente-texto: 'Inter', system-ui, sans-serif;
+  --fuente-titulos: 'Space Grotesk', sans-serif;
+  --radio: 14px;
+  --toque-minimo: 44px;
+}

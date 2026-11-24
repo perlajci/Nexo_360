@@ -1,0 +1,1 @@
+-- Datos FICTICIOS para la demo (localidad de ejemplo, Sierra Norte de Puebla)

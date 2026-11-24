@@ -1,0 +1,1 @@
+-- Integrante 2 · políticas RLS (inserción anónima controlada, lectura por folio + código)

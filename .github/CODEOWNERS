@@ -1,0 +1,10 @@
+# Reemplaza @usuarioN por el usuario de GitHub de cada integrante.
+# GitHub pedirá su revisión cuando un Pull Request toque su carpeta.
+/src/features/ciudadano/   @usuario1
+/src/services/             @usuario2
+/supabase/                 @usuario2
+/src/features/control/     @usuario3
+/src/offline/              @usuario4
+/public/sw.js              @usuario4
+/firmware/                 @usuario4
+/src/shared/               @usuario1 @usuario2 @usuario3 @usuario4

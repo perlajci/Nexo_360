@@ -1,0 +1,1 @@
+-- Integrante 2 · zonas_riesgo, alertas, lecturas_sensor, incidentes, checkins, brigadas
