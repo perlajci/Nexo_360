@@ -1,10 +1,12 @@
-# Reemplaza @usuarioN por el usuario de GitHub de cada integrante.
 # GitHub pedirá su revisión cuando un Pull Request toque su carpeta.
-/src/features/ciudadano/   @usuario1
-/src/services/             @usuario2
-/supabase/                 @usuario2
-/src/features/control/     @usuario3
-/src/offline/              @usuario4
-/public/sw.js              @usuario4
-/firmware/                 @usuario4
-/src/shared/               @usuario1 @usuario2 @usuario3 @usuario4
+# Si varias reglas coinciden, gana la ÚLTIMA: las rutas más específicas van al final.
+# Erandi: @adas335 · Gris: @grisleidy-cyber · Marlene: @Marlene324 · Perla: @perlajci
+/src/shared/               @adas335 @grisleidy-cyber @Marlene324 @perlajci
+/src/features/ciudadano/   @adas335
+/src/services/             @grisleidy-cyber
+/supabase/                 @grisleidy-cyber
+/firmware/                 @grisleidy-cyber
+/src/features/control/     @Marlene324
+/src/offline/              @perlajci
+/src/offline/sms.js        @adas335
+/public/sw.js              @perlajci
